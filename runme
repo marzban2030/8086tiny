@@ -1,9 +1,9 @@
 #!/bin/sh
 clear
 stty cbreak raw -echo min 0
-if [ -f hd.img ]
+if [ -f Hard.img ]
 then
-    ./8086tiny bios DOS320A.img hd.img
+    ./8086tiny bios DOS320A.img Hard.img
 else
     ./8086tiny bios DOS320A.img
 fi
