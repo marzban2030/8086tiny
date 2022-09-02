@@ -11,6 +11,6 @@ Running instruction:
 
 1- Unzip "UnzipMe.zip" file.
 
-2- run "make" command in the repository directory.
+2- Run "make" command in the repository directory.
 
-3- run "Runme" command.
+3- Run "runme" command.
