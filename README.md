@@ -13,4 +13,4 @@ Running instruction:
 
 2- Run "make no_graphics" command in the repository directory.
 
-3- Run "runme" command.
+3- Run "./runme" command.
