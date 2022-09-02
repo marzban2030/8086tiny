@@ -11,6 +11,6 @@ Running instruction:
 
 1- Unzip "UnzipMe.zip" file.
 
-2- Run "make" command in the repository directory.
+2- Run "make no_graphics" command in the repository directory.
 
 3- Run "runme" command.
