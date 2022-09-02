@@ -14,3 +14,16 @@ Running instruction:
 2- Run "make no_graphics" command in the repository directory.
 
 3- Run "./runme" command.
+
+
+Shortcut keys guide:
+
+To send an Alt+xxx key combination, press Ctrl+A then the key, so for example to type Alt+F, press Ctrl+A then F.
+
+To send an Fxx key, press Ctrl+F then a number key. For example, to get the F4 key, press Ctrl+F then 4. To get F10, press Ctrl+F then 0.
+
+To send Ctrl+A, press Ctrl+F then Ctrl+A. To send Ctrl+F, press Ctrl+F then Ctrl+F.
+
+To send a Page Down key, press Ctrl+F then O. To send a Page Up key, press Ctrl+F then Q.
+
+Also you can read docs.html for full guide.
