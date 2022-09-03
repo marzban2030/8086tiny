@@ -11,7 +11,7 @@ Avoid to some leakages in the SDL, make with "no_graphics" mode argument is reco
 
 Running instruction:
 
-1- Unzip "UnzipMe.zip" file.
+1- Unzip "UnzipMe.zip" file to extracting "Hard.img" file, This is image of a 31MB hard drive contains installed Borland Turbo C.
 
 2- Run "make no_graphics" command in the repository directory.
 
