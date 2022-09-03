@@ -7,7 +7,7 @@
 
 The philosophy of 8086tiny is to keep the code base as small as possible, and through the open source license encourage individual developers to tune and extend it as per their specific requirements, adding support, for example, for more complex instruction sets (e.g. Pentium) or peripherals (e.g. mouse).
 
-Avoid to some leakages in the SDL, "no_graphic" mode is recommended strongly.
+Avoid to some leakages in the SDL, make with "no_graphics" mode argument is recommended.
 
 Running instruction:
 
@@ -30,10 +30,10 @@ To send a Page Down key, press Ctrl+F then O. To send a Page Up key, press Ctrl+
 
 Also you can read "doc.html" at "docs" folder to getting full guide.
 
-Floppy change guide during emulation:
+Floppy changing during emulation guide:
 
-Open another Linux console and run "cp newfloppy.img lastfloppy.img" command in the repository directory.
+Open another Linux console and run "cp [New Floppy].img [Inserted Floppy].img" command in the repository directory.
 
-This repository download link as a zip file:
+Download whole of this repository as a zip file:
 
 https://github.com/marzban2030/8086tiny/archive/refs/heads/patch-1.zip
