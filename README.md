@@ -27,3 +27,7 @@ To send Ctrl+A, press Ctrl+F then Ctrl+A. To send Ctrl+F, press Ctrl+F then Ctrl
 To send a Page Down key, press Ctrl+F then O. To send a Page Up key, press Ctrl+F then Q.
 
 Also you can read "doc.html" at "docs" folder to getting full guide.
+
+Floppy change guide during emulation:
+
+Open another Linux console and run "cp newfloppy.img lastfloppy.img" command in the repository directory.
