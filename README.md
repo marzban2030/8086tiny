@@ -31,3 +31,7 @@ Also you can read "doc.html" at "docs" folder to getting full guide.
 Floppy change guide during emulation:
 
 Open another Linux console and run "cp newfloppy.img lastfloppy.img" command in the repository directory.
+
+This repository download link as a zip file:
+
+https://github.com/marzban2030/8086tiny/archive/refs/heads/patch-1.zip
