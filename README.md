@@ -7,4 +7,6 @@
 
 The philosophy of 8086tiny is to keep the code base as small as possible, and through the open source license encourage individual developers to tune and extend it as per their specific requirements, adding support, for example, for more complex instruction sets (e.g. Pentium) or peripherals (e.g. mouse).
 
-Patch: https://github.com/marzban2030/8086tiny/tree/patch-1
+8086 VM / MS-DOS 3.20 & Borland Turbo C:
+
+https://github.com/marzban2030/8086tiny/tree/patch-1
