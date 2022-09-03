@@ -17,6 +17,12 @@ Running instruction:
 
 3- Run "./runme" command.
 
+4- After booting to emulated machine, Run "C:" command to changing drive letter to drive C.
+
+5- Run "cd tc" command to changing directory to Borland Turbo C directory.
+
+6- Run "tc" command to executing Borland Turbo C.
+
 
 Shortcut keys guide:
 
