@@ -32,7 +32,7 @@ Also you can read "doc.html" at "docs" folder to getting full guide.
 
 Floppy changing during emulation guide:
 
-Open another Linux console and run "cp [NewFloppy].img [InsertedFloppy].img" command in the repository directory.
+Open another Linux console and run "cp NewFloppy.img InsertedFloppy.img" command in the repository directory.
 
 Download whole of this repository as a zip file:
 
