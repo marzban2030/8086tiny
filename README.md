@@ -7,6 +7,8 @@
 
 The philosophy of 8086tiny is to keep the code base as small as possible, and through the open source license encourage individual developers to tune and extend it as per their specific requirements, adding support, for example, for more complex instruction sets (e.g. Pentium) or peripherals (e.g. mouse).
 
+Avoid to some leakages in the SDL, "no_graphic" mode is recommended strongly.
+
 Running instruction:
 
 1- Unzip "UnzipMe.zip" file.
