@@ -40,6 +40,16 @@ Floppy changing during emulation guide:
 
 Open another Linux console and run "cp NewFloppy.img InsertedFloppy.img" command in the repository directory.
 
+Create virtual floppy image from files guide:
+
+"dd if=/dev/zero of=fd.img count=1440 bs=1k"
+
+"mkfs.msdos fd.img"
+
+"mdir -i fd.img"
+
+"mcopy -i fd.img files_path ::/"
+
 Download whole of this repository as a zip file:
 
 https://github.com/marzban2030/8086tiny/archive/refs/heads/patch-1.zip
