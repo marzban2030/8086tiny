@@ -42,6 +42,8 @@ Open another Linux console and run "cp NewFloppy.img InsertedFloppy.img" command
 
 Create virtual floppy image from files guide:
 
+In Linux install "dosfstools" and "mtools" packages, Then run below commands:
+
 "dd if=/dev/zero of=fd.img count=1440 bs=1k"
 
 "mkfs.msdos fd.img"
