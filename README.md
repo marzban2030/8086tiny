@@ -52,6 +52,16 @@ In Linux install "dosfstools" and "mtools" packages, Then run below commands:
 
 "mcopy -i fd.img files_path ::/"
 
+Copy all files and folders with subdirectories from virtual floppy image to a folder:
+
+"mkdir folder"
+
+"mcopy -s -i disk.img :: folder"
+
+Or copy a file from virtual floppy image to current folder:
+
+"mcopy -i disk.img ::file.ext ."
+
 Download whole of this repository as a zip file:
 
 https://github.com/marzban2030/8086tiny/archive/refs/heads/patch-1.zip
